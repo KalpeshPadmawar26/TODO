@@ -1,0 +1,47 @@
+.header {
+   background-color: aqua;
+}
+
+.heading{
+    text-align: center;
+    background-color: blanchedalmond;
+    border-radius: 10pxS;
+}
+.contant {
+
+    margin-top: 8rex;
+}
+
+#t1,
+#t2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    align-items: flex-start;
+
+}
+
+tr {
+    align-items: center;
+}
+
+#t1 {
+    background-color: brown;
+    padding: 15px;
+}
+
+#t2 {
+    background-color: blueviolet;
+    padding: 15px;
+}
+
+.out {
+    background-color: bisque;
+    border-style: double;
+    box-sizing: 20rem;
+    padding-inline-start: 2px;
+}
+
+#list {
+    border: 2px;
+    border-style: solid;
+}
